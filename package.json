@@ -20,13 +20,9 @@
     "sleep": "^6.3.0",
     "random-words": "^1.1.0"
   },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
     "express"
   ]
 }
